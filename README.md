@@ -79,11 +79,11 @@
  <img width="12" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
  <img width="12" />
- <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"  />
+ <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAY1BMVEX///8AAAD6+vr39/fb29tERETg4ODAwMA1NTXk5OTHx8eNjY3q6upJSUnX19eysrJSUlLx8fHQ0NBubm5zc3OUlJQeHh46OjqCgoKioqK4uLgXFxdfX19nZ2cRERFaWlonJycuL3mMAAACK0lEQVRIiZ1X2aKrIAwk7qhV69Kq3fz/rzyoLEFAvHeeQDISyDggIQ6EtGrbioaucSvyIgaJuMivsdoODHStlzYvJm3FMp/PltlpK7KTWXs3bUXvoCWvcx7AK7HxUh9tRWry6is8gPo/eQYzv8oD0ORQXucBlIgoypdH09MefZsSsXuZ4g380WPtRDbJbXX48t5gJMornDwhHuu0orRK6zGGZ3TQh0j2LR5M4lXaxyQ7k4h77/1IZmQUyVWyPYUPGDPaIWeEz5aJ2gOXijnQroXaewDOiShwzQ25xOU1Qqxl+jnn4d1guSKVUh+RqtgWLbHx8Qhp0CJ71PZCzdKTn2xXfmIlg39E2aHVUHQkMniRkr+wN3h3vqiqkZ+oZA1oxn9a45c8ZPvc5DfMMvhBbrJd+ImFDL4hyWd+ojpaOuk3V+qhqsF8Bzn/6COOKjbFwtUc04I7CqUE1YOt+BRqH1k1tPmFfdnxQ4HrqirUh8y5QZF2xm9i2Z7EA39hb5Vsotv7sj2c+dwlX8NzyEvkyGGZD8erARfZdoR/ArwK9FEPYODFh/ZSMuEEYiTGaZrnlzzQdythdtzqqewwDmtlTryyiTyZNSXQI/GuxmYxJWtO9eHudj/wtHR2FdjNI9B5B0W/RbI+oiEuvkE5vQdl5CZaXPuNhgMX0Spm5QsQOogOd0l9ROdVOejOiF3g4jFEzbHEgtj4/Drp+UVJgX13/YWDhSn28M8Q2i7Vf7CYFbqBLkDhAAAAAElFTkSuQmCC" alt="github logo"  />
  <img width="12" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
  <img width="12" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+ <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"  />
  <img width="12" />
  <img src="https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white"  />
  <img width="12" />

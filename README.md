@@ -81,6 +81,10 @@
  <img width="12" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
  <img width="12" />
+ <img src="https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white"  />
+ <img width="12" />
+ <img src="https://img.shields.io/badge/TryHackMe-2E2E2E?style=for-the-badge&logo=tryhackme&logoColor=white"  />
+ <img width="12" />
 
 </div
 

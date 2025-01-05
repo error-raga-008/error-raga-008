@@ -45,16 +45,8 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white"  />
   <img width="12" />
-  
-![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=scratch&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
-  
 </div>
 
-![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=scratch&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
 
 <h3 align="left">I.T Skill</h3>
 

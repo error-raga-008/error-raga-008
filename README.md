@@ -88,10 +88,9 @@
 
 </div
 
-<h3 align="left">O.S</h3>
+<h3 align="left"> O.S </h3>
 
 <div align="left">
-  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"  />

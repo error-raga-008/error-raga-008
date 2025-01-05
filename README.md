@@ -12,16 +12,10 @@
   <div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/wakatime?username=error_raga_008" alt="WakaTime Stats" />
-    </a>
-  </div>
-
-  <!-- Top Languages -->
-  <div>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    </a><a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=error-raga-008&layout=compact" alt="Top Languages" />
     </a>
   </div>
-
 </div>
 
 Languages

@@ -1,10 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋</h1>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=error-raga-008&show=reviews,discussions_started,prs_merged,&show_icons=true&theme=blue-green)
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around; align-items: flex-start;">
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=error_raga_008)](https://github.com/anuraghazra/github-readme-stats)
+  <!-- GitHub Stats -->
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=error-raga-008&show=reviews,discussions_started,prs_merged,&show_icons=true&theme=blue-green" alt="GitHub Stats" />
+  </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=error-raga-008&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+  <!-- WakaTime Stats -->
+  <div>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=error_raga_008" alt="WakaTime Stats" />
+    </a>
+  </div>
+
+  <!-- Top Languages -->
+  <div>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=error-raga-008&layout=donut-vertical" alt="Top Languages" />
+    </a>
+  </div>
+
+</div>
 
 Languages
 

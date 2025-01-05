@@ -126,16 +126,8 @@
     <img width="12" />
   </div>
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/error-raga-008/error-raga-008/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/error-raga-008/count.svg?"  />
 </div>
-
-###

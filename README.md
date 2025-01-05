@@ -5,6 +5,7 @@
   <!-- GitHub Stats -->
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=error-raga-008&show=reviews,discussions_started,prs_merged,&show_icons=true&theme=blue-green" alt="GitHub Stats" />
+    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=error-raga-008&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
   </div>
 
   <!-- WakaTime Stats -->

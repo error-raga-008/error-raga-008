@@ -1,6 +1,8 @@
 <h1 align="center">Hi there 👋</h1>
 <p align="center">I'm a 1st-year BSc IT student specializing in Computer Engineering from Ahmedabad. I have a strong foundation in various programming languages, including HTML5, CSS3, JavaScript, Python, C++, C, Scratch, JSON, and XML. My technical expertise extends to IT skills such as MySQL, Shell Scripting, Unreal Engine, and Networking. I am proficient in using tools like PyCharm, VS Code, GitHub, Windows Terminal, and platforms like LeetCode and TryHackMe. I work comfortably across multiple operating systems, including Linux, Ubuntu, Windows, and Android. Beyond coding, I enjoy working with Google Sheets, Google Slides, and tools like Photoshop, Lightroom, and VirtualBox. My additional interests include photography and gaming on Steam. I’m always eager to learn, explore new technologies, and collaborate on exciting projects!</p><br>
 
+<h1 align="center">GIT HUB STATS 🖥</h1>
+
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; align-items: flex-start;">
 
   <!-- GitHub Stats -->

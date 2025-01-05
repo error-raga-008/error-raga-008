@@ -1,4 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
+<p>I'm a 1st-year BSc IT student specializing in Computer Engineering from Ahmedabad. I have a strong foundation in various programming languages, including HTML5, CSS3, JavaScript, Python, C++, C, Scratch, JSON, and XML. My technical expertise extends to IT skills such as MySQL, Shell Scripting, Unreal Engine, and Networking. I am proficient in using tools like PyCharm, VS Code, GitHub, Windows Terminal, and platforms like LeetCode and TryHackMe. I work comfortably across multiple operating systems, including Linux, Ubuntu, Windows, and Android. Beyond coding, I enjoy working with Google Sheets, Google Slides, and tools like Photoshop, Lightroom, and VirtualBox. My additional interests include photography and gaming on Steam. I’m always eager to learn, explore new technologies, and collaborate on exciting projects!</p>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; align-items: flex-start;">
 
@@ -18,7 +19,7 @@
   </div>
 </div>
 
-<center><h3>Languages</h3></center>
+<h3 align="center">Languages</h3>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -30,14 +31,14 @@
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
 
-<center><h3>I.T Skill</h3></center>
+<h3 align="center">I.T Skill</h3>
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-0078D7?style=for-the-badge&logo=network&logoColor=white)
 
-<center><h3>IDE</h3></center>
+<h3 align="center">IDE</h3>
 
 ![PYCHARM](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
@@ -46,14 +47,14 @@
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<center><h3>O.S</h3></center>
+<h3 align="center">O.S</h3>
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-<center><h3>Extra Skills</h3></center>
+<h3>Extra Skills</h3></center>
 
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-0F9D58?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![Google Slides](https://img.shields.io/badge/Google%20Slides-F4B400?style=for-the-badge&logo=google-slides&logoColor=white)

@@ -126,8 +126,6 @@
     <img width="12" />
   </div>
 
-<img src="https://raw.githubusercontent.com/error-raga-008/error-raga-008/output/snake.svg" alt="Snake animation" />
-
 <div align="center">
   
   ![GitHub Snake dark](https://github.com/ankitpathak62/ankitpathak62/blob/output/github-snake-dark.svg)

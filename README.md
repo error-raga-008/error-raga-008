@@ -54,9 +54,15 @@
  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" alt="unrealengine logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Networking-0078D7?style=for-the-badge&logo=network&logoColor=white"  />
   <img width="12" />
 </div>
 
@@ -66,11 +72,14 @@
 ![Networking](https://img.shields.io/badge/Networking-0078D7?style=for-the-badge&logo=network&logoColor=white)
 
 <h3 align="left">IDE</h3>
+
 <div align="left">
 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
  <img width="12" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+ <img width="12" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
  <img width="12" />
 
 </div

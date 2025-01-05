@@ -3,7 +3,7 @@
 
 <h1 align="center">GIT HUB STATS 🖥</h1>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around; align-items: flex-start;">
+<div >
 
   <!-- GitHub Stats -->
   <div>

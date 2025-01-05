@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-[!](https://github-readme-stats.vercel.app/api?username=error-raga-008&show=reviews,discussions_started,prs_merged,&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=error-raga-008&repo=github-readme-stats)](https://github.com/error-raga-008/Practise)
+![Anurag's GitHub stats]([https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs](https://github-readme-stats.vercel.app/api?username=error-raga-008&show=reviews,discussions_started,prs_merged,&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=error-raga-008&repo=github-readme-stats)](https://github.com/error-raga-008/Practise)
 
 https://github.com/error-raga-008/Practise
 <!--

@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
-<p>I'm a 1st-year BSc IT student specializing in Computer Engineering from Ahmedabad. I have a strong foundation in various programming languages, including HTML5, CSS3, JavaScript, Python, C++, C, Scratch, JSON, and XML. My technical expertise extends to IT skills such as MySQL, Shell Scripting, Unreal Engine, and Networking. I am proficient in using tools like PyCharm, VS Code, GitHub, Windows Terminal, and platforms like LeetCode and TryHackMe. I work comfortably across multiple operating systems, including Linux, Ubuntu, Windows, and Android. Beyond coding, I enjoy working with Google Sheets, Google Slides, and tools like Photoshop, Lightroom, and VirtualBox. My additional interests include photography and gaming on Steam. I’m always eager to learn, explore new technologies, and collaborate on exciting projects!</p>
+<p>I'm a 1st-year BSc IT student specializing in Computer Engineering from Ahmedabad. I have a strong foundation in various programming languages, including HTML5, CSS3, JavaScript, Python, C++, C, Scratch, JSON, and XML. My technical expertise extends to IT skills such as MySQL, Shell Scripting, Unreal Engine, and Networking. I am proficient in using tools like PyCharm, VS Code, GitHub, Windows Terminal, and platforms like LeetCode and TryHackMe. I work comfortably across multiple operating systems, including Linux, Ubuntu, Windows, and Android. Beyond coding, I enjoy working with Google Sheets, Google Slides, and tools like Photoshop, Lightroom, and VirtualBox. My additional interests include photography and gaming on Steam. I’m always eager to learn, explore new technologies, and collaborate on exciting projects!</p><br>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; align-items: flex-start;">
 
@@ -18,7 +18,7 @@
     </a>
   </div>
 </div>
-
+<h1 align="center">TECH STACK 💻</h1>
 <h3 align="center">Languages</h3>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)

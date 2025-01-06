@@ -94,7 +94,7 @@
 <h3 align="left">Co-curricular Skills</h3>
 
 <div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
     <img width="12" />
     <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="photoshop logo"  />
     <img width="12" />

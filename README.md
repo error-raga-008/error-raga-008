@@ -96,8 +96,6 @@
 <div align="left">
     <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="blender logo"  />
     <img width="12" />
-    <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="photoshop logo"  />
-    <img width="12" />
     <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"  alt="photoshop logo"  />
     <img width="12" />
     <img src="https://img.shields.io/badge/Google%20Sheets-0F9D58?style=for-the-badge&logo=google-sheets&logoColor=white"  />
@@ -107,8 +105,6 @@
     <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=whit"  />
     <img width="12" />
     <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"  />
-    <img width="12" />
-    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"  />
     <img width="12" />
   </div>
 

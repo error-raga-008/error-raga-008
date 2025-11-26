@@ -15,7 +15,7 @@
   <div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <!--[![Harlok's WakaTime stats]()](https://github.com/anuraghazra/github-readme-stats)-->
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?error_raga_008=ffflabs&bg_color=0D1117&text_color=ffffff&layout=compact" alt="Top Languages" />
+     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=error_raga_008&bg_color=0D1117&text_color=ffffff&layout=compact" alt="WakaTime Stats" />
     </a><br>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=error-raga-008&bg_color=0D1117&text_color=ffffff&layout=compact" alt="Top Languages" />
